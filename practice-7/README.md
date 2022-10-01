@@ -5,7 +5,7 @@ ___
 
 ### Problems
 
-|#|Problems|Solutions|
+|#|Problem Statement|Solution|
 |:-:|:-:|:-:|
 | A | [Link](https://codeforces.com/contest/1532/problem/A) | [Link](./a.kt) |
 | B | [Link](https://codeforces.com/contest/1532/problem/B) | [Link](./b.kt) |
