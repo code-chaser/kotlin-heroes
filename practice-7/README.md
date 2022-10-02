@@ -1,5 +1,5 @@
 # kotlin-heroes-solutions/practice-7/ 
-Solutions to [Kotlin Heroes: Practice 1](https://codeforces.com/contest/1171)
+Solutions to [Kotlin Heroes: Practice 7](https://codeforces.com/contest/1532)
 
 ___
 
