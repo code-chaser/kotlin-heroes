@@ -9,7 +9,7 @@ ___
 |Contest|Problems|Solutions|
 |:-:|:-:|:-:|
 | Practice-1 | [Link](https://codeforces.com/contest/1171) | [NA]() |
-| Practice-2 | [Link](https://codeforces.com/contest/1212) | [NA]() |
+| Practice-2 | [Link](https://codeforces.com/contest/1212) | [Link](./practice-2/) |
 | Practice-3 | [Link](https://codeforces.com/contest/1298) | [NA]() |
 | Practice-4 | [Link](https://codeforces.com/contest/1347) | [NA]() |
 | Practice-5 | [Link](https://codeforces.com/contest/1432) | [NA]() |
