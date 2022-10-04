@@ -1,4 +1,4 @@
-# kotlin-heroes-solutions &nbsp; [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) [![Star: Count](https://img.shields.io/github/stars/code-chaser/kotlin-heroes-solutions?color=purple&label=Stars)](https://github.com/code-chaser/kotlin-heroes-solutions/stargazers) [![Fork: Count](https://img.shields.io/github/forks/code-chaser/kotlin-heroes-solutions?color=red&label=Forks)](https://github.com/code-chaser/kotlin-heroes-solutions/network/members) [![Issues: Count](https://img.shields.io/github/issues/code-chaser/kotlin-heroes-solutions?color=272755&label=Issues)](https://github.com/code-chaser/kotlin-heroes-solutions/issues) [![PRs: Count](https://img.shields.io/github/issues-pr/code-chaser/kotlin-heroes-solutions?color=095527&label=PRs)](https://github.com/code-chaser/kotlin-heroes-solutions/pulls) &nbsp;
+# kotlin-heroes &nbsp; [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) [![Star: Count](https://img.shields.io/github/stars/code-chaser/kotlin-heroes?color=purple&label=Stars)](https://github.com/code-chaser/kotlin-heroes/stargazers) [![Fork: Count](https://img.shields.io/github/forks/code-chaser/kotlin-heroes?color=red&label=Forks)](https://github.com/code-chaser/kotlin-heroes/network/members) [![Issues: Count](https://img.shields.io/github/issues/code-chaser/kotlin-heroes?color=272755&label=Issues)](https://github.com/code-chaser/kotlin-heroes/issues) [![PRs: Count](https://img.shields.io/github/issues-pr/code-chaser/kotlin-heroes?color=095527&label=PRs)](https://github.com/code-chaser/kotlin-heroes/pulls) &nbsp;
 Solutions to Codeforces' Kotlin Heroes Contests
 
 ___
@@ -31,8 +31,8 @@ ___
 <br/>
 
 <div align="left">
-<a href="https://github.com/code-chaser/kotlin-heroes-solutions/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=code-chaser/kotlin-heroes-solutions&max=100&columns=11"/>
+<a href="https://github.com/code-chaser/kotlin-heroes/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=code-chaser/kotlin-heroes&max=100&columns=11"/>
 </a>
 </div>
 
